@@ -18,3 +18,5 @@ Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Project print:
+
+![gitcompare](https://user-images.githubusercontent.com/47576846/63372108-db49d500-c35b-11e9-9cd5-6a2164f2df24.png)
